@@ -1,0 +1,6 @@
+{
+  "name": "HostPilot - Web Development, Web Apps & QR Concierge",
+  "description": "HostPilot builds custom websites, web apps, UI/UX and QR digital concierges for businesses and vacation-rental hosts. Start your project today.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
